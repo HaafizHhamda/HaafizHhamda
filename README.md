@@ -8,7 +8,7 @@ I’m Haafizh Hamda, Motivated beginner in Data Analysis and Data Science with k
 - Languages: Python
 - Data Analysis & Visualization: Tableau, Pandas, Matplotlib
 - Database Management: PostgreSQL
-- Machine Learning & AI: Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision, Langchain, OpenAI
+- Machine Learning & AI: Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision,  OpenAI
 - Other Skills: ETL Development, Feature Engineering, Data Wrangling, Real-time Data Pipelines
 
 ---
