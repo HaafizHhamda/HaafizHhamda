@@ -1,6 +1,24 @@
 ## Haafizh Hamda - Data Analyst / Data Scientist
-## Hi there 👋
+#### Hi there 👋
+I’m Haafizh Hamda, Motivated beginner in Data Analysis and Data Science with knowledge of Python, SQL, and data visualization tools. Interested in exploring patterns, building simple models, and helping teams make data-driven decisions. Excited to grow skills and gain more experience through hands-on projects. 
 
+---
+
+#### 📫 Connect with Me
+- LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/haafizh-hamda)
+- Email: haafizhamda07@gmail.com
+
+---
+
+#### 🛠 Skills
+- Languages: Python
+- Data Analysis & Visualization: Tableau, Pandas, Matplotlib
+- Database Management: PostgreSQL
+- Machine Learning & AI: Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision, Langchain, OpenAI
+- Other Skills: ETL Development, Feature Engineering, Data Wrangling, Real-time Data Pipelines
+
+---
+Thanks for stopping by! Feel free to explore my projects or reach out—I'm always up for collaborations and new ideas in the world of data science.
 
 <!--
 **HaafizHhamda/HaafizHhamda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
