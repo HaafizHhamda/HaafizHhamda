@@ -4,12 +4,6 @@ I’m Haafizh Hamda, Motivated beginner in Data Analysis and Data Science with k
 
 ---
 
-#### 📫 Connect with Me
-- LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/haafizh-hamda)
-- Email: haafizhamda07@gmail.com
-
----
-
 #### 🛠 Skills
 - Languages: Python
 - Data Analysis & Visualization: Tableau, Pandas, Matplotlib
@@ -18,6 +12,13 @@ I’m Haafizh Hamda, Motivated beginner in Data Analysis and Data Science with k
 - Other Skills: ETL Development, Feature Engineering, Data Wrangling, Real-time Data Pipelines
 
 ---
+
+#### 📫 Connect with Me
+- LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/haafizh-hamda)
+- Email: haafizhamda07@gmail.com
+
+---
+
 Thanks for stopping by! Feel free to explore my projects or reach out—I'm always up for collaborations and new ideas in the world of data science.
 
 <!--
